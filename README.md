@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
+<a href="https://github.com/Shivam-Raj-4417"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
+<a href="www.linkedin.com/in/shivam-raj-ab3b72248"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
 
 </div>
 
@@ -48,7 +48,7 @@ Administrative backend for a sportsbook platform, built for internal operations 
 - Centralized reporting on transactions, user activity, and risk flags
 - Built to support high-frequency read/write operations without downtime
 
-<a href="https://github.com/GITHUB_USERNAME/sportsbook-backoffice"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
+<a href="https://github.com/Shivam-Raj-4417/sportsbook-backoffice"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
 
 <br/><br/>
 
@@ -61,7 +61,7 @@ Backend infrastructure for a multi-layer agent network powering a sportsbook and
 - Real-time bet settlement and balance updates across the network
 - Designed for horizontal scaling as agent volume grows
 
-<a href="https://github.com/GITHUB_USERNAME/metablock-sportsbook"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
+<a href="https://github.com/Shivam-Raj-4417/metablock-sportsbook"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
 
 <br/><br/>
 
@@ -73,7 +73,7 @@ Personal site built to present projects and engineering experience with a fast, 
 - Fully responsive layout with performance-first asset loading
 - Component-driven architecture built with reusability in mind
 
-<a href="https://github.com/GITHUB_USERNAME/portfolio-website"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
+<a href="https://github.com/Shivam-Raj-4417/portfolio-website"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
 <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live%20Demo-6E56CF?style=flat-square&logoColor=ffffff" /></a>
 
 <br/>
@@ -100,16 +100,16 @@ Personal site built to present projects and engineering experience with a fast, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=6E56CF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&hide_border=false&border=30363D&border_radius=10&background=0D1117&ring=6E56CF&fire=6E56CF&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam-Raj-4417&show_icons=true&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=6E56CF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Raj-4417&hide_border=false&border=30363D&border_radius=10&background=0D1117&ring=6E56CF&fire=6E56CF&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=react-dark&hide_border=false&bg_color=0D1117&border_color=30363D&color=8B949E&line=6E56CF&point=E6EDF3&area=true&area_color=6E56CF" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Raj-4417&theme=react-dark&hide_border=false&bg_color=0D1117&border_color=30363D&color=8B949E&line=6E56CF&point=E6EDF3&area=true&area_color=6E56CF" width="97%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Raj-4417&layout=compact&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" width="60%" />
 
 </div>
 
@@ -149,10 +149,10 @@ Personal site built to present projects and engineering experience with a fast, 
 
 ## Contact
 
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-<a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
+<a href="https://github.com/Shivam-Raj-4417"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
+<a href="www.linkedin.com/in/shivam-raj-ab3b72248"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
 <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=E6EDF3" /></a>
-<a href="mailto:EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=E6EDF3" /></a>
+<a href="mailto:shiviraj4417@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=E6EDF3" /></a>
 
 <br/><br/>
 
