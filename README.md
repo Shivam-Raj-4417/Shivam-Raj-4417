@@ -33,11 +33,9 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to play games and attend random meetups<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: 🌊 Let's Sail Together:</h2>
 
 <div align="center">
-
-## 🌊 Let's Sail Together
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivam-Raj-4417)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
