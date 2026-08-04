@@ -37,8 +37,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Shivam-Raj-4417)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/YOUR_INSTAGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Shivam-Raj-4417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/s.h.i.v.i.raj)
+
+</div>
 
 </div>
