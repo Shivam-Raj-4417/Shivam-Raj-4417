@@ -1,161 +1,52 @@
-<!--
-  Before publishing, replace these placeholders throughout the file:
-  - GITHUB_USERNAME  → your GitHub handle (drives stats, streak, contribution graph, top languages, and repo links)
-  - LINKEDIN_URL     → your LinkedIn profile URL
-  - PORTFOLIO_URL    → your portfolio URL
-  - EMAIL_ADDRESS    → your email address
--->
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Shivam Raj , Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
+      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+ <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+    </p>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring AWS cloud and Backend System
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to play games and attend random meetups<br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=Shivam%20Raj&fontSize=44&fontColor=E6EDF3&fontAlignY=42&animation=fadeIn&desc=FullStack%20Developer&descAlignY=62&descSize=15" width="100%"/>
+<a href="https://github.com/Shivam-Raj-4417">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/shivam-raj-ab3b72248/">
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&background=0D1117&center=true&vCenter=true&width=620&height=40&lines=Backend+systems+that+hold+up+under+load;Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+MongoDB;Currently+deepening+System+Design+%26+DSA" alt="tagline" />
-
-<br/><br/>
-
-<a href="https://github.com/Shivam-Raj-4417"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-<a href="www.linkedin.com/in/shivam-raj-ab3b72248"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
-
-</div>
-
-<br/>
-
----
-
-## About
-
-I build backend systems — APIs, data models, authentication flows, and the infrastructure that keeps them running once real traffic shows up. Most of my work lives in Node.js and Express, backed by PostgreSQL or MongoDB depending on what the data actually looks like.
-
-Right now that means building out a sportsbook backoffice and the backend for a multi-agent sportsbook platform — systems where correctness and uptime matter more than how the code looks on a slide. I also work across the stack when a project calls for it, using React, TypeScript, and Tailwind CSS on the frontend.
-
-Outside of shipping, I'm working through system design and algorithms with more intent, and picking up the operational side — Redis, Docker, Kubernetes, AWS — so the systems I build hold up in production, not just in development.
-
-<br/>
-
----
-
-## Projects
-
-### Sportsbook Backoffice
-Administrative backend for a sportsbook platform, built for internal operations and reporting.
-
-`Node.js` &nbsp;`Express`&nbsp; `PostgreSQL`
-
-- Role-based access control across multiple internal permission tiers
-- Centralized reporting on transactions, user activity, and risk flags
-- Built to support high-frequency read/write operations without downtime
-
-<a href="https://github.com/Shivam-Raj-4417/sportsbook-backoffice"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-
-<br/><br/>
-
-### MetaBlock Sportsbook
-Backend infrastructure for a multi-layer agent network powering a sportsbook and iGaming ecosystem.
-
-`Node.js` &nbsp;`Express`&nbsp; `MongoDB`
-
-- Multi-layer agent hierarchy supporting nested commission structures
-- Real-time bet settlement and balance updates across the network
-- Designed for horizontal scaling as agent volume grows
-
-<a href="https://github.com/Shivam-Raj-4417/metablock-sportsbook"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-
-<br/><br/>
-
-### Portfolio Website
-Personal site built to present projects and engineering experience with a fast, minimal interface.
-
-`React` &nbsp;`TypeScript`&nbsp; `Tailwind CSS`
-
-- Fully responsive layout with performance-first asset loading
-- Component-driven architecture built with reusability in mind
-
-<a href="https://github.com/Shivam-Raj-4417/portfolio-website"><img src="https://img.shields.io/badge/Repository-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Live%20Demo-6E56CF?style=flat-square&logoColor=ffffff" /></a>
-
-<br/>
-
----
-
-## Tech Stack
-
-<table>
-<tr><td width="140"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /></td></tr>
-<tr><td><b>Database</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" /></td></tr>
-<tr><td><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td></tr>
-<tr><td><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" /></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td></tr>
-</table>
-
-<br/>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam-Raj-4417&show_icons=true&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=6E56CF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Raj-4417&hide_border=false&border=30363D&border_radius=10&background=0D1117&ring=6E56CF&fire=6E56CF&currStreakLabel=E6EDF3&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Raj-4417&theme=react-dark&hide_border=false&bg_color=0D1117&border_color=30363D&color=8B949E&line=6E56CF&point=E6EDF3&area=true&area_color=6E56CF" width="97%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Raj-4417&layout=compact&hide_border=false&border_color=30363D&border_radius=10&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" width="60%" />
-
-</div>
-
-<br/>
-
----
-
-## Learning Roadmap
-
-**Now**
-- [ ] Data Structures & Algorithms
-- [ ] System Design
-
-**Next**
-- [ ] Redis
-- [ ] Docker
-
-**Future**
-- [ ] AWS
-- [ ] Kubernetes
-- [ ] CI/CD
-- [ ] Microservices
-
-<br/>
-
----
-
-## Engineering Philosophy
-
-> Most backend problems aren't solved by clever code — they're solved by clear boundaries, predictable data flow, and systems that fail loudly instead of quietly. I'd rather ship something boring that holds up under load than something impressive that breaks under pressure. Complexity is a cost, not a feature — it should only show up when the problem actually requires it.
-
-<br/>
-
----
-
-<div align="center">
-
-## Contact
-
-<a href="https://github.com/Shivam-Raj-4417"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=E6EDF3" /></a>
-<a href="www.linkedin.com/in/shivam-raj-ab3b72248"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=E6EDF3" /></a>
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=vercel&logoColor=E6EDF3" /></a>
-<a href="mailto:shiviraj4417@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=E6EDF3" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=80&section=footer" width="100%"/>
+<a href="https://instagram.com/s.h.i.v.i.raj">
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
