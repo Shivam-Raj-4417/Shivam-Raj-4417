@@ -1,46 +1,134 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Shivam Raj , Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    </p>
+# 👋 Hi, I'm Shivam Raj
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+### 🚀 Full Stack Developer | React • Node.js • PostgreSQL • TypeScript
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring AWS cloud and Backend System
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to play games and attend random meetups<br>
+I'm a Full Stack Developer passionate about building modern web applications with clean UI, scalable backend systems, and real-world architecture.
 
-<h2 align="left">:heart: 🌊 Let's Sail Together:</h2>
+Currently building full-stack products while improving my skills in System Design, Backend Engineering, and Cloud technologies.
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Currently Building: **Sportsbook Backoffice**
+- 🚀 Working On: **MetaBlock Sportsbook**
+- 🌱 Currently Learning: **System Design • Docker • AWS • Kubernetes**
+- 💡 Interested In: **Full Stack Development • Backend Architecture • Scalable Systems**
+- 👯 Looking to Collaborate On: **Open Source & Full Stack Projects**
+- 💬 Ask Me About: **React, Node.js, Express.js, PostgreSQL, TypeScript**
+- 📫 Reach Me: **YOUR_EMAIL@gmail.com**
+- ⚡ Fun Fact: **One Piece Fan ⚓ | Coffee + Code = Productivity**
+
+---
+
+# 🌐 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/Shivam--Raj--4417-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Raj-4417)
+
+[![LinkedIn](https://img.shields.io/badge/Shivam_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
+
+[![Instagram](https://img.shields.io/badge/@YOUR_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### ⚙ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ☁ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## ⚓ Sportsbook Backoffice
+
+> Enterprise-level admin panel for sportsbook management with dashboards, reporting, and role-based access.
+
+**Tech Stack:** React • TypeScript • Tailwind CSS • Node.js • PostgreSQL
+
+---
+
+## ⚓ MetaBlock Sportsbook
+
+> Full-stack sportsbook platform built with scalable backend architecture and modern frontend technologies.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+
+---
+
+## 🌐 Portfolio Website
+
+> Personal portfolio showcasing projects, skills, and development journey.
+
+**Tech Stack:** React • TypeScript • Tailwind CSS
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Shivam-Raj-4417&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Shivam-Raj-4417&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Raj-4417&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become a Full Stack Developer in a Product-Based Company
+- ✅ Build Production-Level Applications
+- ✅ Master System Design
+- ✅ Learn Docker & Kubernetes
+- ✅ Strengthen DSA & Problem Solving
+- ✅ Contribute to Open Source
+
+---
+
+# ⚓ Engineering Philosophy
+
+> *"Great software isn't just about writing code—it's about creating reliable, scalable, and meaningful experiences for users."*
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Shivam-Raj-4417)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/s.h.i.v.i.raj)
+### ⭐ Thanks for visiting my profile!
 
-</div>
+**"Keep building. Keep learning. One commit at a time." 🚀**
 
 </div>
