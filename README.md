@@ -27,7 +27,7 @@ Currently building full-stack products while improving my skills in System Desig
 
 [![LinkedIn](https://img.shields.io/badge/Shivam_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-raj-ab3b72248/)
 
-[![Instagram](https://img.shields.io/badge/@YOUR_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.h.i.v.i.raj)
+[![Instagram](https://img.shields.io/badge/@s.h.i.v.i.raj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.h.i.v.i.raj)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
