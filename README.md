@@ -29,7 +29,7 @@ Currently building full-stack products while improving my skills in System Desig
 
 [![Instagram](https://img.shields.io/badge/@s.h.i.v.i.raj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.h.i.v.i.raj)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://shivam-raj-4417.github.io/portfolio1/)
 
 ---
 
