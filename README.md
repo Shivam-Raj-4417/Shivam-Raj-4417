@@ -16,7 +16,7 @@ Currently building full-stack products while improving my skills in System Desig
 - 💡 Interested In: **Full Stack Development • Backend Architecture • Scalable Systems**
 - 👯 Looking to Collaborate On: **Open Source & Full Stack Projects**
 - 💬 Ask Me About: **React, Node.js, Express.js, PostgreSQL, TypeScript**
-- 📫 Reach Me: **YOUR_EMAIL@gmail.com**
+- 📫 Reach Me: **shiviraj4417@gmail.com**
 - ⚡ Fun Fact: **One Piece Fan ⚓ | Coffee + Code = Productivity**
 
 ---
