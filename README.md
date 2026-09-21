@@ -109,7 +109,7 @@ Currently building full-stack products while improving my skills in System Desig
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2027 Goals
 
 - ✅ Become a Full Stack Developer in a Product-Based Company
 - ✅ Build Production-Level Applications
